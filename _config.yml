@@ -1,0 +1,28 @@
+name: New One
+favicon: null
+layout_spectrum: 0.023833141196519136
+typography_spectrum: 0.496399003546685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07919210870750248
+  lightness: 0.7133238094393164
+  saturation: 0.14300465094856918
+  rhythmicContrast: 0.3079750291071832
+purpose: []
